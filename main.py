@@ -13,7 +13,7 @@
 #
 #     python projetil.py
 #
-# OU, no VS Code:
+# no VS Code:
 # Execute o arquivo projetil.py pelo botão "Run Python File".
 #
 # CONTROLES:
