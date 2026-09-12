@@ -6,7 +6,7 @@
 # INSTALAÇÃO:
 # No terminal do VS Code, execute:
 #
-#     python -m pip install numpy matplotlib
+# python -m pip install numpy matplotlib
 #
 # EXECUÇÃO:
 # Na pasta onde este arquivo está localizado, execute:
