@@ -7,6 +7,6 @@ ADO 1 do senac bcc- Interface Gráfica Interativa Lançamento de Projéteis
 
  2- Baixe python no visual studio code
 
- 3- apos criar o folder abra o terminal e instale a bibiloteca metplot com o comando python -m pip install matplotlib 
+ 3- apos criar o folder abra o terminal e instale a bibiloteca metplot com o comando python -m pip install matplotlib e  python -m pip install numpy
 
  4- apos termiab=nar de baixar a biblioteca pegue o codigo e rode no vs code

@@ -7,11 +7,12 @@
 # No terminal do VS Code, execute:
 #
 # python -m pip install numpy matplotlib
+#  python -m pip install numpy
 #
 # EXECUÇÃO:
 # Na pasta onde este arquivo está localizado, execute:
 #
-#     python projetil.py
+#  python projetil.py
 #
 # no VS Code:
 # Execute o arquivo projetil.py pelo botão "Run Python File".
